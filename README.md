@@ -25,4 +25,4 @@ Proje, bir ders yönetim sistemi uygulaması sunar. Kullanıcılar, dersler, ö�
   - Mevcut derslerin ve kayıtların listesi
 
 ##  Veritabanı
-  - Tüm veriler, **resources** klasöründe JSON formatında saklanır.
+  - Tüm veriler JSON formatında saklanır.
