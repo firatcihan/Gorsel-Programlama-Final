@@ -1,0 +1,30 @@
+[
+  {
+    "DersAdi": "\u0130nternet Programc\u0131l\u0131\u011F\u0131",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Bolum": "Bilgisayar Programc\u0131l\u0131\u011F\u0131",
+      "Isim": "Erkan Ayd\u0131n"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "1",
+        "Isim": "firat"
+      }
+    ]
+  },
+  {
+    "DersAdi": "\u0130\u015Fletim Sistemleri",
+    "Kredi": 4,
+    "OgretimGorevlisi": {
+      "Bolum": "Bilgisayar Programc\u0131l\u0131\u011F\u0131",
+      "Isim": "Refik Tanju Sirmen"
+    },
+    "KayitliOgrenciler": [
+      {
+        "OgrenciNo": "2",
+        "Isim": "ibrahim"
+      }
+    ]
+  }
+]
